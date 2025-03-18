@@ -1,8 +1,11 @@
 {
   "hosting": {
+    "site": "route-optimizer-ui",
     "public": ".",
     "ignore": [
       "firebase.json",
+      ".firebaserc",
+      ".github",
       "**/.*",
       "**/node_modules/**"
     ],
